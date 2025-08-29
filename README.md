@@ -5,8 +5,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
