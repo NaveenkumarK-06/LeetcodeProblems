@@ -1,0 +1,22 @@
+class Solution {
+    public List<Integer> getRow(int rowIndex) {
+        int r=rowIndex+1;
+        List<List<Integer>> ans=new ArrayList <>();
+            List<Integer> firstRow=new ArrayList<>();
+            firstRow.add(1);
+            ans.add(firstRow);
+            
+            for(int i=1;i<r;i++){
+              List<Integer> tempRow=new ArrayList<>();  
+              tempRow.add(1);
+              for(int j=1;j<i;j++){
+                  int val=ans.get(i-1).get(j)+ans.get(i-1).get(j-1);
+                  tempRow.add(val);
+              }
+              
+              tempRow.add(1);
+              ans.add(tempRow);
+            }
+            return ans.get(rowIndex);
+    }
+}
