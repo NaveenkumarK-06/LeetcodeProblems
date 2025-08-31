@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0561-array-partition](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0561-array-partition) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0561-array-partition) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
