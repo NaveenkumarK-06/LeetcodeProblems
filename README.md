@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0645-set-mismatch](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0645-set-mismatch) |
+| [2406-decode-the-message](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2406-decode-the-message) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Bit Manipulation
 |  |
@@ -63,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
+| [2406-decode-the-message](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2406-decode-the-message) |
 <!---LeetCode Topics End-->
