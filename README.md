@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0561-array-partition](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0645-set-mismatch) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Sorting
 |  |
