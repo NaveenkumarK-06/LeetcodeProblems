@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0009-palindrome-number) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 ## Sliding Window
 |  |
