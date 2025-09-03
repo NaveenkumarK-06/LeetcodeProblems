@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0645-set-mismatch) |
+| [0940-fruit-into-baskets](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
+| [0940-fruit-into-baskets](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 | [2406-decode-the-message](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2406-decode-the-message) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
