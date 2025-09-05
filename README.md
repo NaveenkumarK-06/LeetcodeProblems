@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0561-array-partition) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
@@ -97,11 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
