@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
