@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
