@@ -23,6 +23,10 @@ class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
         int l=1;
         int r=(int)Math.pow(10,9);
+        long total=(long)m*k;
+        if(total>bloomDay.length){
+            return -1;
+        }
         while(l<=r){
             int mid=l+(r-l)/2;
             if(isPossible(bloomDay,m,k,mid)){
@@ -31,10 +35,6 @@ class Solution {
             else{
                 l=mid+1;
             }
-        }
-        int exced=(int)Math.pow(10,9);
-        if(l==exced+1){
-            return -1;
         }
         return l;
     }
