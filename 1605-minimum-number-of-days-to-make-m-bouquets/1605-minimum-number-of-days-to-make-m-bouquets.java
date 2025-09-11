@@ -20,7 +20,7 @@ class Solution {
         return false;
     }
     public int minDays(int[] bloomDay, int m, int k) {
-        int l=0;
+        int l=1;
         int r=(int)Math.pow(10,9);
         while(l<=r){
             int mid=l+(r-l)/2;
