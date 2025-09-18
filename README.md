@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0645-set-mismatch) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
