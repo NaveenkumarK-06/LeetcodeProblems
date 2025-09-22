@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0179-largest-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0283-move-zeroes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0645-set-mismatch) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0561-array-partition) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0179-largest-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
