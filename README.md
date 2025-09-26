@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
