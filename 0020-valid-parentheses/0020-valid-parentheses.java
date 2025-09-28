@@ -10,7 +10,9 @@ class Solution {
                     return false;
                  }
                  char top=stack.pop();
-                 if(ch==']' && top!='[' || ch==')' && top!='(' || ch=='}' && top!='{'){
+                 if(ch==']' && top!='[' || 
+                    ch==')' && top!='(' || 
+                    ch=='}' && top!='{'){
                     return false;
                  }
             }
