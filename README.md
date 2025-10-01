@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 ## Sliding Window
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0645-set-mismatch) |
 ## String
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
