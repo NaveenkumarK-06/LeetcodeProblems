@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0415-add-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 ## Sliding Window
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2134-maximize-the-confusion-of-an-exam) |
@@ -234,4 +236,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
