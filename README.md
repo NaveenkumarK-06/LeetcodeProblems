@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0415-add-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
@@ -257,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0415-add-strings) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
