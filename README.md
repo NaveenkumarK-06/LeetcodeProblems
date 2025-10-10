@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0561-array-partition) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0227-basic-calculator-ii) |
+| [0268-missing-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0415-add-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0948-sort-an-array) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0645-set-mismatch) |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0645-set-mismatch) |
 ## String
 |  |
@@ -191,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
