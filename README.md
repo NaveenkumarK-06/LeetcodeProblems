@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0812-rotate-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2406-decode-the-message](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2406-decode-the-message) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0812-rotate-string) |
 ## Stack
 |  |
 | ------- |
