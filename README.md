@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0189-rotate-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0219-contains-duplicate-ii) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
@@ -304,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0204-count-primes) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
