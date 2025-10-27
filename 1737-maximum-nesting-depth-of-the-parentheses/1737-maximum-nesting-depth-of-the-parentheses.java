@@ -10,7 +10,9 @@ class Solution {
                 st.push('(');  
             } 
             else if (ch == ')') {
+                if (!st.isEmpty()){
                     st.pop();
+                }
             }
 
             maxLen = Math.max(maxLen, st.size());
