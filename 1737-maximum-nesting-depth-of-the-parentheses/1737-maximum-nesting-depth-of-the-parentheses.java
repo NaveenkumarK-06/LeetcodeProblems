@@ -7,16 +7,14 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
             if (ch == '(') {
-                st.push(ch);  
+                st.push('(');  
             } 
             else if (ch == ')') {
-                if (!st.isEmpty()) {
                     st.pop();
-                }
             }
+
             maxLen = Math.max(maxLen, st.size());
         }
-
         return maxLen;
     }
 }
