@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2406-decode-the-message](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2406-decode-the-message) |
+| [3447-clear-digits](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0227-basic-calculator-ii) |
 | [0682-baseball-game](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [3447-clear-digits](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/3447-clear-digits) |
 ## Queue
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0682-baseball-game) |
+| [3447-clear-digits](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/3447-clear-digits) |
 ## Enumeration
 |  |
 | ------- |
