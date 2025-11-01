@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0682-baseball-game) |
@@ -352,5 +354,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0221-maximal-square](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
