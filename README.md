@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0907-koko-eating-bananas) |
+| [0921-spiral-matrix-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0682-baseball-game) |
+| [0921-spiral-matrix-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0921-spiral-matrix-iii) |
 | [3447-clear-digits](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/3447-clear-digits) |
 ## Enumeration
 |  |
@@ -359,4 +361,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0221-maximal-square](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0221-maximal-square) |
+| [0921-spiral-matrix-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
