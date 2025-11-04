@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0140-word-break-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0189-rotate-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0227-basic-calculator-ii) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0227-basic-calculator-ii) |
 | [0682-baseball-game](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
