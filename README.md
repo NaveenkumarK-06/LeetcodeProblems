@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0189-rotate-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 ## Math
