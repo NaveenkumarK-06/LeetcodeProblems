@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
