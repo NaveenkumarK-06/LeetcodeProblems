@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0561-array-partition) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 ## Sliding Window
