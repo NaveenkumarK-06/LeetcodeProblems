@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0645-set-mismatch) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
