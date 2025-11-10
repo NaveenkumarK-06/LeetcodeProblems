@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0697-degree-of-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0792-binary-search) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0645-set-mismatch) |
+| [0697-degree-of-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
