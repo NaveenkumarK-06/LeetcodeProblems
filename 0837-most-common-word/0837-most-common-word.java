@@ -1,4 +1,3 @@
-import java.util.*;
 
 class Solution {
     public String mostCommonWord(String paragraph, String[] banned) {
@@ -26,10 +25,10 @@ class Solution {
 
         String result = "";
         int maxCount = 0;
-        for (Map.Entry<String, Integer> entry : freq.entrySet()) {
-            if (entry.getValue() > maxCount) {
-                maxCount = entry.getValue();
-                result = entry.getKey();
+        for (String str : freq.keySet()) {
+            if (freq.get(str) > maxCount) {
+                maxCount = freq.get(str);
+                result = str;
             }
         }
 
