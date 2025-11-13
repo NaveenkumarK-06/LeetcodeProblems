@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
+| [1019-squares-of-a-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1217-relative-sort-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0953-reverse-only-letters) |
+| [1019-squares-of-a-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Hash Table
 |  |
