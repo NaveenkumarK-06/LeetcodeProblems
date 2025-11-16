@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0841-shortest-distance-to-a-character) |
 | [0907-koko-eating-bananas](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0837-most-common-word) |
+| [0841-shortest-distance-to-a-character](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0953-reverse-only-letters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1904-second-largest-digit-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1904-second-largest-digit-in-a-string) |
