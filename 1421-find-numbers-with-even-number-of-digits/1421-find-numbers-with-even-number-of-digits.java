@@ -3,8 +3,15 @@ class Solution {
         int n=nums.length;
         int count=0;
         for(int i=0;i<n;i++){
-            int len=String.valueOf(nums[i]).length();
-            if(len%2==0){
+            int digits=0;
+            int x=nums[i];
+
+            while(x>0){
+                x=x/10;
+                digits++;
+            }
+
+            if(digits%2==0){
                 count++;
             }
         }
