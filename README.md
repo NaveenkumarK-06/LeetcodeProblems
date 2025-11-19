@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1675-magnetic-force-between-two-balls) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1217-relative-sort-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1217-relative-sort-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1217-relative-sort-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1904-second-largest-digit-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2406-decode-the-message](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2406-decode-the-message) |
