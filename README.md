@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1675-magnetic-force-between-two-balls](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1675-magnetic-force-between-two-balls) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2058-concatenation-of-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0953-reverse-only-letters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1904-second-largest-digit-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1904-second-largest-digit-in-a-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2406-decode-the-message](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2406-decode-the-message) |
