@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1217-relative-sort-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1217-relative-sort-array) |
+| [1293-three-consecutive-odds](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
