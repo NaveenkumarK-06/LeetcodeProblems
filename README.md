@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0941-sort-array-by-parity) |
+| [0946-validate-stack-sequences](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0946-validate-stack-sequences) |
 | [0948-sort-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0227-basic-calculator-ii) |
 | [0682-baseball-game](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0946-validate-stack-sequences) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3447-clear-digits](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/3447-clear-digits) |
 ## Queue
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0682-baseball-game) |
 | [0921-spiral-matrix-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0921-spiral-matrix-iii) |
+| [0946-validate-stack-sequences](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0946-validate-stack-sequences) |
 | [2058-concatenation-of-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2058-concatenation-of-array) |
 | [3447-clear-digits](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/3447-clear-digits) |
 ## Enumeration
