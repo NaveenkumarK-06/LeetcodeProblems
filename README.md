@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
+| [0989-add-to-array-form-of-integer](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1019-squares-of-a-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0989-add-to-array-form-of-integer](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
