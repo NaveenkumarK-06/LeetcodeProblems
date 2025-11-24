@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1019-squares-of-a-sorted-array) |
 | [1217-relative-sort-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1217-relative-sort-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1675-magnetic-force-between-two-balls) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1217-relative-sort-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1848-sum-of-unique-elements) |
