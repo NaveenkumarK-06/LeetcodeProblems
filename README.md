@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1207-unique-number-of-occurrences](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1217-relative-sort-array) |
 | [1293-three-consecutive-odds](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1034-subarrays-with-k-different-integers) |
+| [1207-unique-number-of-occurrences](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1217-relative-sort-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1217-relative-sort-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
