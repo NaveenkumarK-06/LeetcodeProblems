@@ -428,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0221-maximal-square](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0221-maximal-square) |
 | [0921-spiral-matrix-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0921-spiral-matrix-iii) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
