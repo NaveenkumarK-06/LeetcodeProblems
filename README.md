@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2574-left-and-right-sum-differences](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2574-left-and-right-sum-differences](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/2574-left-and-right-sum-differences) |
 ## Divide and Conquer
 |  |
 | ------- |
