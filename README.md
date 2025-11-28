@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0139-word-break) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0140-word-break-ii) |
 | [0205-isomorphic-strings](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0205-isomorphic-strings) |
@@ -441,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0596-classes-with-at-least-5-students) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
