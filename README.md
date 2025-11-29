@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0841-shortest-distance-to-a-character) |
 | [0907-koko-eating-bananas](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0907-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0921-spiral-matrix-iii](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0921-spiral-matrix-iii) |
 | [0940-fruit-into-baskets](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0941-sort-array-by-parity) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0221-maximal-square) |
 | [0410-split-array-largest-sum](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0410-split-array-largest-sum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0948-sort-an-array](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -455,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/NaveenkumarK-06/LeetcodeProblems/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
